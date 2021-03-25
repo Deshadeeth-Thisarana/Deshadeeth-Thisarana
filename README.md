@@ -1,4 +1,4 @@
-### Hi there 👋
+#### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 <img src = "https://telegra.ph/file/356b415de1ba2862f7789.png"
 alt ="Wallpaper" width ="500" height ="500"
@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- Your title -->
-## I'm Deshadeeth Thisarana , a Developer from Sri Lanka 🇱🇰. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-
+## I'm Deshadeeth Thisarana , a Developer from Sri Lanka 🇱🇰. 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
@@ -89,7 +88,7 @@ Both apis are in trouble due to the number of requests, if you know any other to
     <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=kaviya-admin" />
 </p>
 
-## Join My Group & Channel
+#### Join My Group & Channel
 
 <a href="https://t.me/gangoffriendschannel"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 
