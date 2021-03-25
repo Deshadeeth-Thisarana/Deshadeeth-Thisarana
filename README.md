@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <img src = "https://telegra.ph/file/356b415de1ba2862f7789.png"
-alt ="Wallpaper" width ="100" height ="100"
+alt ="Wallpaper" width ="1000" height ="1000"
 border ="0" align ="left">
 
 <!--
