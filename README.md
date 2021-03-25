@@ -3,6 +3,10 @@
 <!--
 **deshadeeth-thisarana/deshadeeth-thisarana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<img src = "https://telegra.ph/file/356b415de1ba2862f7789.png"
+alt = "Wallpaper" width ="100" height ="100"
+border ="0" align ="left">
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -16,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- Your title -->
-## Hi, I'm Deshadeeth Thisarana , a Developer from Sri Lanka 🇱🇰. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+## I'm Deshadeeth Thisarana , a Developer from Sri Lanka 🇱🇰. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
