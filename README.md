@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 -->
 
 <!-- Your title -->
-## I'm Deshadeeth Thisarana , a Developer from Sri Lanka 🇱🇰. 
+## I'm Deshadeeth Thisarana , a Developer from Sri Lanka 🇱🇰. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/SriLanka.gif" width="30px">
+
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
