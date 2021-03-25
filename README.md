@@ -2,7 +2,7 @@
 
 <img src = "https://telegra.ph/file/356b415de1ba2862f7789.png"
 alt ="Wallpaper" width ="500" height ="500"
-border ="0" align ="left">
+border ="0" align ="middle">
 
 <!--
 **deshadeeth-thisarana/deshadeeth-thisarana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
