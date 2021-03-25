@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![Deshadeeth](https://telegra.ph/file/356b415de1ba2862f7789.png)
+<img src = "https://telegra.ph/file/356b415de1ba2862f7789.png"
+alt ="Wallpaper" width ="100" height ="100"
+border ="0" align ="left">
 
 <!--
 **deshadeeth-thisarana/deshadeeth-thisarana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
