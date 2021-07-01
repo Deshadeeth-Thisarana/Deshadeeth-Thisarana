@@ -1,6 +1,6 @@
 # Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-<img src = "https://telegra.ph/file/53c497042f33286ec86d9.jpg"
+<img src = "https://telegra.ph/file/1542f3ee8ad490d59a254.png"
 alt ="Wallpaper" width ="350" height ="350"
 border ="0" align ="middle">
 
