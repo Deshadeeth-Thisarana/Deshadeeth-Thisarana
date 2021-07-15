@@ -33,7 +33,7 @@ border ="0" align ="middle">
 
 ## **Languages and Tools:** 
 
-<p align ="right">
+<p align ="left">
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
@@ -52,7 +52,7 @@ border ="0" align ="middle">
 </p>
 </p>  
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deshadeeth-thisarana&theme=tokyonight&hide=batchfile">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deshadeeth-thisarana&theme=tokyonight&hide=batchfile">
  
 
 ## __Contributions__
