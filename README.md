@@ -31,7 +31,7 @@ border ="0" align ="middle">
 - ![visitors](https://visitor-badge.glitch.me/badge?page_id=deshadeeth-thisarana)
 
 
-## **Languages and Tools:** 
+## **Tools:** 
 <p align ="left">
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
@@ -51,7 +51,8 @@ border ="0" align ="middle">
 </p>
 </p>  
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deshadeeth-thisarana&theme=tokyonight&hide=batchfile">
+## **Most used Languages** 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deshadeeth-thisarana&theme=tokyonight&hide=batchfile">
  
 ## __Contributions__
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deshadeeth-thisarana" alt="deshadeeth-thisarana"></p>
