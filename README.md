@@ -1,11 +1,12 @@
 # Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-## I'm Deshadeeth Thisarana , a Developer from Sri Lanka 🇱🇰. 
-
 <img src = "https://telegra.ph/file/1542f3ee8ad490d59a254.png"
 alt ="Wallpaper" width ="350" height ="350"
 border ="0" align ="middle">
 
+## I'm Deshadeeth Thisarana , a Developer from Sri Lanka 🇱🇰. 
+
+<p align="center"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt" />
 
 **Talking about Personal Stuffs:**
 
