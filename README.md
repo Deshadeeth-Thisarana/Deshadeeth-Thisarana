@@ -26,6 +26,10 @@ border ="0" align ="middle">
 <div align="left"><img src="https://github-profile-trophy.vercel.app/?username=deshadeeth-thisarana&theme=dracula&count_private=true"></div>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=deshadeeth-thisarana&show_icons=true&hide_border=true&theme=tokyonight">
 
+## **Github Status**
+- ![Profile views](https://gpvc.arturio.dev/deshadeeth-thisarana)
+- [![GitHub followers](https://img.shields.io/github/followers/deshadeeth-thisarana.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/deshadeeth-thisarana?tab=followers)
+- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=deshadeeth-thisarana)
 
 
 ## **Languages and Tools:** 
@@ -50,17 +54,8 @@ border ="0" align ="middle">
 </p>
 </p>  
 
-## Streak
+## __Streak__
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deshadeeth-thisarana" alt="deshadeeth-thisarana"></p>
-  
-
-
-## GITHUB STATUS.
-- ![Profile views](https://gpvc.arturio.dev/deshadeeth-thisarana)
-- [![GitHub followers](https://img.shields.io/github/followers/deshadeeth-thisarana.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/deshadeeth-thisarana?tab=followers)
-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=deshadeeth-thisarana)
-
-
 
 ## Follow me on
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/deshadeeth-thisarana)
@@ -74,8 +69,6 @@ border ="0" align ="middle">
 <a href="https://twitter.com/Dthisarana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://www.facebook.com/JohnWatson" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
-
-
 
 ## Join My Group & Channel
 
