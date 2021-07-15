@@ -23,13 +23,13 @@ Here are some ideas to get you started:
 ## I'm Deshadeeth Thisarana , a Developer from Sri Lanka 🇱🇰. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/SriLanka.gif" width="30px">
 
 
-**Stats:**  
+### **Stats:**  
 
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=deshadeeth-thisarana&theme=dracula&count_private=true"></div>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=deshadeeth-thisarana&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deshadeeth-thisarana&theme=tokyonight&hide=batchfile">
 
 
-# GITHUB STATUS.
+### GITHUB STATUS.
 - ![Profile views](https://gpvc.arturio.dev/deshadeeth-thisarana)
 - [![GitHub followers](https://img.shields.io/github/followers/deshadeeth-thisarana.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/deshadeeth-thisarana?tab=followers)
 
