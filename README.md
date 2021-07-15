@@ -28,15 +28,11 @@ Here are some ideas to get you started:
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=deshadeeth-thisarana&theme=dracula&count_private=true"></div>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=deshadeeth-thisarana&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deshadeeth-thisarana&theme=tokyonight&hide=batchfile">
 
+
 # GITHUB STATUS.
 - ![Profile views](https://gpvc.arturio.dev/deshadeeth-thisarana)
 - [![GitHub followers](https://img.shields.io/github/followers/deshadeeth-thisarana.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/deshadeeth-thisarana?tab=followers)
 
-<p>
-  <a href="https://github.com/deshadeeth-thisarana/handle-path-oz">
-    <img width="55%" align="left" alt="Deshadeeth's github stats" src="https://github-readme-stats.vercel.app/api?username=deshadeeth-thisarana&show_icons=true&hide_border=true" />
-  </a>
-</p>
 <p align ="right">
   <br />
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
