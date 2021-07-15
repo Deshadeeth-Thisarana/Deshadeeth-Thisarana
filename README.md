@@ -32,7 +32,6 @@ border ="0" align ="middle">
 
 
 ## **Languages and Tools:** 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deshadeeth-thisarana&theme=tokyonight&hide=batchfile">
 
 <p align ="right">
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
@@ -53,6 +52,7 @@ border ="0" align ="middle">
 </p>
 </p>  
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deshadeeth-thisarana&theme=tokyonight&hide=batchfile">
  
 
 ## __Contributions__
