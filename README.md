@@ -52,9 +52,9 @@ border ="0" align ="middle">
 </p>  
 
 ## **Most used Languages** 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deshadeeth-thisarana&theme=tokyonight&hide=batchfile">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deshadeeth-thisarana&theme=tokyonight&hide=batchfile">
  
-## __Contributions__
+## Contributions
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=deshadeeth-thisarana" alt="deshadeeth-thisarana"></p>
 
 <a href="https://github.com/deshadeeth-thisarana"><img alt="Deshadeeth's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=deshadeeth-thisarana&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
