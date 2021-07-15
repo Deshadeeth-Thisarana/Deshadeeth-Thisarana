@@ -30,7 +30,7 @@ border ="0" align ="middle">
 ## **Github Status**
 - ![Profile views](https://gpvc.arturio.dev/deshadeeth-thisarana)
 - [![GitHub followers](https://img.shields.io/github/followers/deshadeeth-thisarana.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/deshadeeth-thisarana?tab=followers)
-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=deshadeeth-thisarana)
+- ![visitors](https://visitor-badge.glitch.me/badge?page_id=deshadeeth-thisarana)
 
 
 ## **Languages and Tools:** 
