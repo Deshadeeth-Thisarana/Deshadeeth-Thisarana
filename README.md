@@ -77,4 +77,4 @@ border ="0" align ="middle">
 
 <a href="https://t.me/gangoffriends"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
-<a href="https://t.me/DeshadeethThisarana/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a>
+<img align="left" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
