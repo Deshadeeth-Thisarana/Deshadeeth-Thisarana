@@ -28,11 +28,6 @@ Here are some ideas to get you started:
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=deshadeeth-thisarana&theme=dracula&count_private=true"></div>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=deshadeeth-thisarana&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deshadeeth-thisarana&theme=tokyonight&hide=batchfile">
 
-
-### GITHUB STATUS.
-- ![Profile views](https://gpvc.arturio.dev/deshadeeth-thisarana)
-- [![GitHub followers](https://img.shields.io/github/followers/deshadeeth-thisarana.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/deshadeeth-thisarana?tab=followers)
-
 <p align ="right">
   <br />
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
@@ -50,9 +45,12 @@ Here are some ideas to get you started:
 </p>  
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deshadeeth-thisarana" alt="deshadeeth-thisarana" /></p>
-# 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deshadeeth-thisarana" alt="deshadeeth-thisarana" / </p>
+ 
+### GITHUB STATUS.
+- ![Profile views](https://gpvc.arturio.dev/deshadeeth-thisarana)
+- [![GitHub followers](https://img.shields.io/github/followers/deshadeeth-thisarana.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/deshadeeth-thisarana?tab=followers)
+  
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
