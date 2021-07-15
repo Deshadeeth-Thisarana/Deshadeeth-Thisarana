@@ -23,7 +23,9 @@ border ="0" align ="middle">
 ### **Stats:**  
 
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=deshadeeth-thisarana&theme=dracula&count_private=true"></div>
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=deshadeeth-thisarana&show_icons=true&hide_border=true&theme=tokyonight">
+
 
 ### **Languages and Tools:** 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deshadeeth-thisarana&theme=tokyonight&hide=batchfile">
@@ -47,7 +49,8 @@ border ="0" align ="middle">
 </p>
 </p>  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deshadeeth-thisarana" alt="deshadeeth-thisarana"> /</p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deshadeeth-thisarana" alt="deshadeeth-thisarana"></p>
   
 ## GITHUB STATUS.
 - ![Profile views](https://gpvc.arturio.dev/deshadeeth-thisarana)
@@ -66,13 +69,11 @@ border ="0" align ="middle">
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:deshadeeththisarana@gmail.com)
 
 <p align="right">
-  
 <a href="https://t.me/DeshadeethThisarana" target="blank"><img align="center" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
 
 <a href="https://twitter.com/Dthisarana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
 
 <a href="https://www.facebook.com/JohnWatson" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
-
 </p>
 
 ### Join My Group & Channel
@@ -80,9 +81,3 @@ border ="0" align ="middle">
 <a href="https://t.me/gangoffriendschannel"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 
 <a href="https://t.me/gangoffriends"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
-
-  
-  
-
-
-
