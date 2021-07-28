@@ -2,7 +2,7 @@
 
 | <a href="https://t.me/DeshadeethThisarana"><img src="https://telegra.ph/file/1542f3ee8ad490d59a254.png" width="350px" height="350px" /></a> |
 |:-----------------------------------------------------------------------------------------------------------------------------------:|
-|      <h3 align="center"> [Đ€Ş卄ΔĐ€€Ť卄 Ť卄ĪŞΔŘคŇΔ](https://t.me/DeshadeethThisarana) </h3>                                           |
+|      <h2 align="center"> [Đ€Ş卄ΔĐ€€Ť卄 Ť卄ĪŞΔŘคŇΔ](https://t.me/DeshadeethThisarana) </h2>                                           |
 | <a href="https://t.me/DeshadeethThisarana"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png" width="40px" height="40px"></a> <a href="https://github.com/deshadeeth-thisarana"><img align="center" src="https://telegra.ph/file/986aa4de44af2256205e5.png" width="40px" height="40px"></a> <a href="https://www.instagram.com/deshadeeth_thisarana" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png"  height="40" width="40" /></a> <a href="https://twitter.com/DThisarana" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-256.png" height="40" width="40" /></a> |                                      
 
 ## I'm Deshadeeth Thisarana , a Developer from Sri Lanka 🇱🇰. 
