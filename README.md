@@ -11,16 +11,17 @@
 
 **Talking about Personal Stuffs:**
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-<h3 align="left">
+<h3>
 - I’m currently working on [All](https://github.com/deshadeeth-thisarna/);
 - 🌱 I’m currently learning Python And Linux(CircleCI); 
 - 👯 I’m looking to collaborate on [Here](https://t.me/Gangoffriends) 🤝;
 - 🤔 I’m looking for help with Design Pattern 😭;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I'm Still Student;
-- 📫 How to reach me: deshadeeththisarana@gmail.com; </h3>
+- 📫 How to reach me: deshadeeththisarana@gmail.com
+</h3>
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
   
 ## **Stats:** <img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" width="50px">
 
