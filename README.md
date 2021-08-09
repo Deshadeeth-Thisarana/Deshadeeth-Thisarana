@@ -11,15 +11,13 @@
 
 **Talking about Personal Stuffs:**
 
-<h3>
-- I’m currently working on [All](https://github.com/deshadeeth-thisarna/);
-- 🌱 I’m currently learning Python And Linux(CircleCI); 
-- 👯 I’m looking to collaborate on [Here](https://t.me/Gangoffriends) 🤝;
-- 🤔 I’m looking for help with Design Pattern 😭;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I'm Still Student;
-- 📫 How to reach me: deshadeeththisarana@gmail.com
-</h3>
+<h3>- I’m currently working on [Team Of Shadow](https://github.com/TeamOfShadow/);</h3>
+<h3>- 🌱 I’m currently learning Python And Linux(CircleCI);</h3>
+<h3>- 👯 I’m looking to collaborate on [Here](https://t.me/Gangoffriends) 🤝;</h3>
+<h3>- 🤔 I’m looking for help with bot developing 😭;</h3>
+<h3>- 💬 Ask me about anything, I am happy to help;</h3>
+<h3>- ⚡️ Fun-Fact: I'm Still Student;</h3>
+<h3>- 📫 How to reach me: deshadeeththisarana@gmail.com;</h3>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
   
