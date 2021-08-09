@@ -9,7 +9,7 @@
 
 <p align="center"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt" />
 
-<h2>**Talking about Personal Stuffs:**</h2>
+<h2>Talking about Personal Stuffs:</h2>
 
 <img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
   
