@@ -1,17 +1,17 @@
-<h1>Hi there</h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+<h1>Hi there</h1><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 | <a href="https://t.me/DeshadeethThisarana"><img src="https://telegra.ph/file/ddfd7a3db59682ded254c.png" width="350px" height="350px" /></a> |
 |:-----------------------------------------------------------------------------------------------------------------------------------:|
 |      <h2 align="center"> [Đ€Ş卄ΔĐ€€Ť卄 Ť卄ĪŞΔŘคŇΔ](https://t.me/DeshadeethThisarana) </h2>                                           |
 | <a href="https://t.me/DeshadeethThisarana"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png" width="40px" height="40px"></a> <a href="https://github.com/deshadeeth-thisarana"><img align="center" src="https://telegra.ph/file/986aa4de44af2256205e5.png" width="40px" height="40px"></a> <a href="https://www.instagram.com/DeshadeethThisarana" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png"  height="40" width="40" /></a> <a href="https://twitter.com/Deshadeeth" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-256.png" height="40" width="40" /></a> |                                      
 
-<h1>I'm Deshadeeth Thisarana , a Developer from Sri Lanka 🇱🇰 still learning.</h1> 
+<h2>I'm Deshadeeth Thisarana , a Developer from Sri Lanka 🇱🇰 still learning.</h2> 
 
 <p align="center"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt" />
 
-<h2>Talking about Personal Stuffs:</h2>
+<h2>Talking about Personal Stuffs👦</h2>
 
-<img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
   
 - I’m currently working on [Team Of Shadow](https://github.com/TeamOfShadow/);
 
@@ -27,18 +27,19 @@
 
 - 📫 How to reach me: deshadeeththisarana@gmail.com;
 
-<h2>Stats:</h2> <img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" width="50px">
+<h2>Stats 📊</h2><img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" width="50px">
 
 <div align="left"><img src="https://github-profile-trophy.vercel.app/?username=deshadeeth-thisarana&theme=dracula&count_private=true"></div>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=deshadeeth-thisarana&show_icons=true&hide_border=true&theme=tokyonight">
 
 <h2>Github Status</h2>
-- ![Profile views](https://gpvc.arturio.dev/deshadeeth-thisarana)
+
+- [![Profile views](https://gpvc.arturio.dev/deshadeeth-thisarana)](https://github.com/deshadeeth-thisarana)
 - [![GitHub followers](https://img.shields.io/github/followers/deshadeeth-thisarana.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/deshadeeth-thisarana?tab=followers)
-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=deshadeeth-thisarana)
+- [![visitors](https://visitor-badge.glitch.me/badge?page_id=deshadeeth-thisarana)](https://github.com/deshadeeth-thisarana)
 
 
-<h2>Tools:</h2> 
+<h2>Tools 🛠:</h2> 
 <p align ="left">
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
