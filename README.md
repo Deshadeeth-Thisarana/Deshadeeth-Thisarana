@@ -1,4 +1,4 @@
-<h1>Hi there<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 | <a href="https://t.me/DeshadeethThisarana"><img src="https://telegra.ph/file/ddfd7a3db59682ded254c.png" width="350px" height="350px" /></a> |
 |:-----------------------------------------------------------------------------------------------------------------------------------:|
@@ -31,7 +31,7 @@
 <div align="left"><img src="https://github-profile-trophy.vercel.app/?username=deshadeeth-thisarana&theme=dracula&count_private=true"></div>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=deshadeeth-thisarana&show_icons=true&hide_border=true&theme=tokyonight">
 
-<h2>Github Status<img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" width="60px">
+<h2>Github Status<img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" width="30px">
 </h2>
 
 - [![Profile views](https://gpvc.arturio.dev/deshadeeth-thisarana)](https://github.com/deshadeeth-thisarana)
@@ -67,7 +67,7 @@
 
 <a href="https://github.com/deshadeeth-thisarana"><img alt="Deshadeeth's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=deshadeeth-thisarana&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-<h2>Follow me on <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width=90px></h2> 
+<h2>Follow me on <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width=50px></h2> 
 
 - [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/deshadeeth-thisarana)
 - [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deshadeeth-thisarana-b438b5209/)
