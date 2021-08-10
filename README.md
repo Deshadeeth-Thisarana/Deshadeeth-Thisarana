@@ -11,7 +11,7 @@
 
 <h2>Talking about Personal Stuffs 👦</h2>
 
-<img width="60%" align="right" alt="Github" src="https://camo.githubusercontent.com/fa22a95c9000d4e4914bc5de9fb94adde07fc0123f0f91ed0f2c3b7bd0240fcb/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d74686f6d61732e676966" />
+<img width="50%" align="right" alt="Github" src="https://camo.githubusercontent.com/fa22a95c9000d4e4914bc5de9fb94adde07fc0123f0f91ed0f2c3b7bd0240fcb/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d74686f6d61732e676966" />
   
 - I’m currently working on [Team Of Shadow](https://github.com/TeamOfShadow/);
 
@@ -27,7 +27,8 @@
 
 - 📫 How to reach me: deshadeeththisarana@gmail.com;
 
-<img width="100%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="100%" align="center" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 
 <h2>Stats </h2>
 
