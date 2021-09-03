@@ -1,6 +1,6 @@
 <h1>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-| <a href="https://t.me/DeshadeethThisarana"><img src="https://telegra.ph/file/ddfd7a3db59682ded254c.png" width="350px" height="350px" /></a> |
+| <a href="https://t.me/DeshadeethThisarana"><img src="https://telegra.ph/file/7310630488a64cef3cd17.jpg" width="350px" height="350px" /></a> |
 |:-----------------------------------------------------------------------------------------------------------------------------------:|
 |      <h2 align="center"> [Đ€Ş卄ΔĐ€€Ť卄 Ť卄ĪŞΔŘคŇΔ](https://t.me/DeshadeethThisarana) </h2>                                           |
 | <a href="https://t.me/DeshadeethThisarana"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png" width="40px" height="40px"></a> <a href="https://github.com/deshadeeth-thisarana"><img align="center" src="https://telegra.ph/file/986aa4de44af2256205e5.png" width="40px" height="40px"></a> <a href="https://www.instagram.com/DeshadeethThisarana" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png"  height="40" width="40" /></a> <a href="https://twitter.com/Deshadeeth" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-256.png" height="40" width="40" /></a> |                                      
@@ -13,7 +13,7 @@
 
 <img width="50%" align="right" alt="Github" src="https://camo.githubusercontent.com/fa22a95c9000d4e4914bc5de9fb94adde07fc0123f0f91ed0f2c3b7bd0240fcb/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d74686f6d61732e676966" />
   
-- I’m currently working on [Team Of Shadow](https://github.com/TeamOfShadow/);
+- I’m currently working on [Team Shadow](https://github.com/TeamOfShadow/);
 
 - 🌱 I’m currently learning Python And Linux(CircleCI);
 
