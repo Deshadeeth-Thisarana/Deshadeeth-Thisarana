@@ -13,11 +13,11 @@
 
 <img width="50%" align="right" alt="Github" src="https://camo.githubusercontent.com/fa22a95c9000d4e4914bc5de9fb94adde07fc0123f0f91ed0f2c3b7bd0240fcb/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d74686f6d61732e676966" />
   
-- I’m currently working on [Team Shadow](https://github.com/TeamOfShadow/);
+- I’m currently working on [TeamShadow](https://github.com/TeamOfShadow/) & [TeamDaisyX](https://github.com/TeamDaisyX);
 
-- 🌱 I’m currently learning Python And Linux(CircleCI);
+- 🌱 I’m currently learning Python And Pyrogram(Telegram MTProto API Client Library);
 
-- 👯 I’m looking to collaborate on [Here](https://t.me/Gangoffriends) 🤝;
+- 👯 I’m looking to collaborate on [Here](https://t.me/GalaxyFriendsTeam) 🤝;
 
 - 🤔 I’m looking for help with bot developing 😭;
 
@@ -88,9 +88,9 @@ src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f
 
 <h2>Join My Group & Channel 🎉</h2>
 
-<a href="https://t.me/ShadowBotUpdates"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/TeamGalaxyFriends"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 
-<a href="https://t.me/gangoffriends"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/GalaxyFriendsTeam"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 
 <h2>Currently working on 💻</h2>
