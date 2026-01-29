@@ -53,7 +53,7 @@
 
 <h2>Contributions & Streak 🔥</h2>
 
-<a href="https://github.com/Deshadeeth-Thisarana"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Deshadeeth-Thisarana" alt="Contributions"> </a>
+<a href="https://github.com/Deshadeeth-Thisarana"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Deshadeeth-Thisarana" alt="Contributions"> </a>
 
 
 <h2>Activity Graph 📈</h2>
