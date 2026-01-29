@@ -1,8 +1,8 @@
 <h1>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-| <a href="https://t.me/DeshadeethThisarana"><img src="https://telegra.ph/file/3b0ae71398ed84b07e9a9.jpg" width="350px" height="350px" /></a> |
+| <a href="https://github.com/Deshadeeth-Thisarana"><img src="https://telegra.ph/file/3b0ae71398ed84b07e9a9.jpg" width="350px" height="350px" /></a> |
 |:-----------------------------------------------------------------------------------------------------------------------------------:|
-| <h2 align="center"> [Đ€Ş卄ΔĐ€€Ť卄 Ť卄ĪŞΔŘคŇΔ](https://t.me/DeshadeethThisarana) </h2> |
+| <h2 align="center"> [Đ€Ş卄ΔĐ€€Ť卄 Ť卄ĪŞΔŘคŇΔ](https://github.com/Deshadeeth-Thisarana) </h2> |
 | <a href="https://t.me/DeshadeethThisarana"><img align="center" src="https://i.postimg.cc/7hczhmcf/Telegram.png" width="40" height="40"></a> <a href="https://github.com/Deshadeeth-Thisarana"><img align="center" src="https://i.postimg.cc/X7SFRDw2/Git-Hub.png" width="40px" height="40px"></a> <a href="https://www.instagram.com/DeshadeethThisarana" target="blank"><img align="center" src="https://i.postimg.cc/MT3M39Wk/Instagram.png"  height="40" width="40"></a> <a href="https://x.com/Deshadeeth" target="blank"><img align="center" src="https://i.postimg.cc/tCrfSpjq/X.png" height="40" width="40" /></a> <a href="https://www.facebook.com/DeshadeethThisarana" target="blank"><img align="center" src="https://i.postimg.cc/hvpB1Ygy/Facebook.png" height="40" width="40"></a> <a href="https://www.linkedin.com/in/DeshadeethThisarana"><img align="center" src="https://i.postimg.cc/NfTb3HZc/Linked-In.png" width="40" height="40"></a> |                                      
 
 <h2>I'm 𝘿𝙚𝙨𝙝𝙖𝙙𝙚𝙚𝙩𝙝 𝙏𝙝𝙞𝙨𝙖𝙧𝙖𝙣𝙖, a student from Sri Lanka <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width=70px></h2> 
@@ -57,7 +57,7 @@
 </p>
 
 <h2>Most used Languages 🔠</h2> 
-<a href="https://github.com/Deshadeeth-Thisarana"><img align="center" src="https://v0-github-profile-stats.vercel.app/api/top-langs?username=Deshadeeth-Thisarana&theme=tokyonight&layout=compact"></a>
+<a href="https://github.com/Deshadeeth-Thisarana"><img align="center" src="https://v0-github-profile-stats.vercel.app/api/top-langs?username=Deshadeeth-Thisarana&theme=tokyonight"></a>
  
 <h2>Contributions 📈</h2>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=deshadeeth-thisarana" alt="deshadeeth-thisarana"></p>
