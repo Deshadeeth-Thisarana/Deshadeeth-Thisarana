@@ -3,7 +3,19 @@
 | <a href="https://t.me/DeshadeethThisarana"><img src="https://telegra.ph/file/3b0ae71398ed84b07e9a9.jpg" width="350px" height="350px" /></a> |
 |:-----------------------------------------------------------------------------------------------------------------------------------:|
 | <h2 align="center"> [Đ€Ş卄ΔĐ€€Ť卄 Ť卄ĪŞΔŘคŇΔ](https://t.me/DeshadeethThisarana) </h2> |
-| <a href="https://t.me/DeshadeethThisarana"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png" width="40px" height="40px"></a> <a href="https://github.com/Deshadeeth-Thisarana"><img align="center" src="https://i.postimg.cc/MT7RH6D7/github2.png" width="40px" height="40px"></a> <a href="https://www.instagram.com/DeshadeethThisarana" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png"  height="40" width="40" /></a> <a href="https://x.com/Deshadeeth" target="blank"><img align="center" src="https://i.postimg.cc/tCrfSpjq/X.png" height="40" width="40" /></a> <a href="https://www.facebook.com/DeshadeethThisarana" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_facebook-256.png" height="40" width="40" />|                                      
+| <a href="https://t.me/DeshadeethThisarana">
+<img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png" width="40px" height="40px">
+</a> <a href="https://github.com/Deshadeeth-Thisarana">
+<img align="center" src="https://i.postimg.cc/MT7RH6D7/github2.png" width="40px" height="40px">
+</a> <a href="https://www.instagram.com/DeshadeethThisarana" target="blank">
+<img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png"  height="40" width="40">
+</a> <a href="https://x.com/Deshadeeth" target="blank">
+<img align="center" src="https://i.postimg.cc/tCrfSpjq/X.png" height="40" width="40" />
+</a> <a href="https://www.facebook.com/DeshadeethThisarana" target="blank">
+<img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_facebook-256.png" height="40" width="40">
+</a> <a href="https://www.linkedin.com/in/DeshadeethThisarana">
+<img align="center" src="https://i.postimg.cc/NfTb3HZc/Linked-In.png" width="40" height="40">
+</a> |                                      
 
 <h2>I'm 𝘿𝙚𝙨𝙝𝙖𝙙𝙚𝙚𝙩𝙝 𝙏𝙝𝙞𝙨𝙖𝙧𝙖𝙣𝙖, a student from Sri Lanka 🇱🇰</h2> 
 
