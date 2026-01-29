@@ -2,8 +2,10 @@
 
 | <a href="https://t.me/DeshadeethThisarana"><img src="https://telegra.ph/file/3b0ae71398ed84b07e9a9.jpg" width="350px" height="350px" /></a> |
 |:-----------------------------------------------------------------------------------------------------------------------------------:|
-|      <h2 align="center"> [Đ€Ş卄ΔĐ€€Ť卄 Ť卄ĪŞΔŘคŇΔ](https://t.me/DeshadeethThisarana) </h2>                                           |
-| <a href="https://t.me/DeshadeethThisarana"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png" width="40px" height="40px"></a> <a href="https://github.com/deshadeeth-thisarana"><img align="center" src="https://telegra.ph/file/986aa4de44af2256205e5.png" width="40px" height="40px"></a> <a href="https://www.instagram.com/DeshadeethThisarana" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png"  height="40" width="40" /></a> <a href="https://twitter.com/Deshadeeth" target="blank"><img align="center" src="https://www.freepik.com/vectors/logo-x" height="40" width="40" /></a> |                                      
+| <h2 align="center"> [Đ€Ş卄ΔĐ€€Ť卄 Ť卄ĪŞΔŘคŇΔ](https://t.me/DeshadeethThisarana) </h2> |
+| <a href="https://t.me/DeshadeethThisarana"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png" width="40px" height="40px"></a> 
+<a href="https://github.com/deshadeeth-thisarana"><img align="center" src="https://telegra.ph/file/986aa4de44af2256205e5.png" width="40px" height="40px"></a>
+<a href="https://www.instagram.com/DeshadeethThisarana" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png"  height="40" width="40" /></a> <a href="https://x.com/Deshadeeth" target="blank"><img align="center" src="https://gofile.io/d/HyUCaD" height="40" width="40" /></a> |                                      
 
 <h2>I'm 𝘿𝙚𝙨𝙝𝙖𝙙𝙚𝙚𝙩𝙝 𝙏𝙝𝙞𝙨𝙖𝙧𝙖𝙣𝙖, a student from Sri Lanka 🇱🇰</h2> 
 
@@ -22,6 +24,7 @@
 - ⚡️ Fun-Fact: I'm still a student;
 
 - 📫 How to reach me: deshadeeththisarana@gmail.com;
+
 
 <a href="https://github.com/Deshadeeth-Thisarana"><img width="100%" align="center" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /></a>
 
