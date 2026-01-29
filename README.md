@@ -26,8 +26,10 @@
 <a href="https://github.com/Deshadeeth-Thisarana"><img width="100%" align="center" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /></a>
 
 <h2>GitHub Stats 📊</h2>
-
 <a href="https://github.com/Deshadeeth-Thisarana"><img src="https://v0-github-profile-stats.vercel.app/api/stats?username=Deshadeeth-Thisarana&theme=ocean_dark&show_icons=true" alt="GitHub Stats" />
+
+<h2>Most used Languages 🔠</h2> 
+<a href="https://github.com/Deshadeeth-Thisarana"><img align="center" src="https://v0-github-profile-stats.vercel.app/api/top-langs?username=Deshadeeth-Thisarana&theme=tokyonight"></a>
 
 <h2>GitHub Tropies
   <img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" width="50px">
@@ -35,7 +37,7 @@
 
 <a href="https://github.com/Deshadeeth-Thisarana"><img src="https://v0-github-profile-trophy.vercel.app/api?user=Deshadeeth-Thisarana" alt="GitHub Profile Trophy"/> </a>
 
-- [![GitHub followers](https://img.shields.io/github/followers/deshadeeth-thisarana.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Deshadeeth-Thisarana?tab=followers)
+- [![GitHub Followers](https://img.shields.io/github/followers/Deshadeeth-Thisarana.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Deshadeeth-Thisarana?tab=followers)
 
 <h2>Tools 🛠</h2> 
 <p align ="left">
@@ -55,14 +57,11 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 </p>
-
-<h2>Most used Languages 🔠</h2> 
-<a href="https://github.com/Deshadeeth-Thisarana"><img align="center" src="https://v0-github-profile-stats.vercel.app/api/top-langs?username=Deshadeeth-Thisarana&theme=tokyonight"></a>
  
 <h2>Contributions 📈</h2>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=deshadeeth-thisarana" alt="deshadeeth-thisarana"></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Deshadeeth-tThisarana" alt="Contributions"></p>
 
-<a href="https://github.com/deshadeeth-thisarana"><img alt="Deshadeeth's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=deshadeeth-thisarana&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Deshadeeth-Thisarana"><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Deshadeeth-Thisarana&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 <h2>Currently learning 💻</h2>
 
