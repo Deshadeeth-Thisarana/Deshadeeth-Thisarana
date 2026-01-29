@@ -5,7 +5,7 @@
 | <h2 align="center"> [Đ€Ş卄ΔĐ€€Ť卄 Ť卄ĪŞΔŘคŇΔ](https://t.me/DeshadeethThisarana) </h2> |
 | <a href="https://t.me/DeshadeethThisarana"><img align="center" src="https://i.postimg.cc/7hczhmcf/Telegram.png" width="40" height="40"></a> <a href="https://github.com/Deshadeeth-Thisarana"><img align="center" src="https://i.postimg.cc/X7SFRDw2/Git-Hub.png" width="40px" height="40px"></a> <a href="https://www.instagram.com/DeshadeethThisarana" target="blank"><img align="center" src="https://i.postimg.cc/MT3M39Wk/Instagram.png"  height="40" width="40"></a> <a href="https://x.com/Deshadeeth" target="blank"><img align="center" src="https://i.postimg.cc/tCrfSpjq/X.png" height="40" width="40" /></a> <a href="https://www.facebook.com/DeshadeethThisarana" target="blank"><img align="center" src="https://i.postimg.cc/hvpB1Ygy/Facebook.png" height="40" width="40"></a> <a href="https://www.linkedin.com/in/DeshadeethThisarana"><img align="center" src="https://i.postimg.cc/NfTb3HZc/Linked-In.png" width="40" height="40"></a> |                                      
 
-<h2>I'm 𝘿𝙚𝙨𝙝𝙖𝙙𝙚𝙚𝙩𝙝 𝙏𝙝𝙞𝙨𝙖𝙧𝙖𝙣𝙖, a student from Sri Lanka 🇱🇰</h2> 
+<h2>I'm 𝘿𝙚𝙨𝙝𝙖𝙙𝙚𝙚𝙩𝙝 𝙏𝙝𝙞𝙨𝙖𝙧𝙖𝙣𝙖, a student from Sri Lanka <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width=70px></h2> 
 
 <p align="center"><a href="https://github.com/Deshadeeth-Thisarana"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt" /></a></p>
 
@@ -21,7 +21,7 @@
 
 - ⚡️ Fun-Fact: I'm still a student;
 
-- 📫 How to reach me: deshadeeththisarana@gmail.com;
+- 📫 How to reach me: [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:deshadeeththisarana@gmail.com);
 
 <a href="https://github.com/Deshadeeth-Thisarana"><img width="100%" align="center" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /></a>
 
@@ -63,22 +63,6 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=deshadeeth-thisarana" alt="deshadeeth-thisarana"></p>
 
 <a href="https://github.com/deshadeeth-thisarana"><img alt="Deshadeeth's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=deshadeeth-thisarana&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-<h2>Follow me on <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width=70px></h2> 
-
-- [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/deshadeeth-thisarana)
-- [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deshadeeth-thisarana-b438b5209/)
-- [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](Deshadeeth:deshadeeththisarana@gmail.com)
-- [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:deshadeeththisarana@gmail.com)
-
-
-<p align="left">
-<a href="https://t.me/DeshadeethThisarana" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/deshadeeththisarana" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
-</a> &nbsp;&nbsp;
-<a href="https://twitter.com/Deshadeeth" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-256.png" height="40" width="40" /></a> &nbsp;&nbsp;
-</p>  
-
 
 <h2>Currently learning 💻</h2>
 
