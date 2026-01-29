@@ -1,3 +1,5 @@
+<img src="https://v0-github-profile-trophy.vercel.app/api?user=Deshadeeth-Thisarana" alt="GitHub Profile Trophy" />
+
 <h1>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 | <a href="https://t.me/DeshadeethThisarana"><img src="https://telegra.ph/file/3b0ae71398ed84b07e9a9.jpg" width="350px" height="350px" /></a> |
