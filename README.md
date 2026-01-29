@@ -23,15 +23,11 @@
 
 - 📫 How to reach me: deshadeeththisarana@gmail.com;
 
-<h3>  </h3>
-
 <a href="https://github.com/Deshadeeth-Thisarana"><img width="100%" align="center" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /></a>
-
-<h3>  </h3>
 
 <h2>GitHub Stats 📊</h2>
 
-<a href="https://github.com/Deshadeeth-Thisarana"><img src="https://v0-github-profile-trophy.vercel.app/api?user=Deshadeeth-Thisarana&type=stats" alt="GitHub Stats" />
+<a href="https://github.com/Deshadeeth-Thisarana"><img src="https://v0-github-profile-stats.vercel.app/api/stats?username=Deshadeeth-Thisarana&theme=ocean_dark&show_icons=true" alt="GitHub Stats" />
 
 <h2>GitHub Tropies
   <img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" width="50px">
