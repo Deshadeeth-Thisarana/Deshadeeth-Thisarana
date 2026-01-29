@@ -28,37 +28,37 @@
 - 📫 How to reach me: [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:deshadeeththisarana@gmail.com);
 
 
-<a href="https://github.com/Deshadeeth-Thisarana"><img width="100%" align="center" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /></a>
+<a href="https://github.com/Deshadeeth-Thisarana"><img width="100%" align="center" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> </a>
 
 
 <h1><u>GitHub Information 📃</u></h1>
 
-- [![GitHub Followers](https://img.shields.io/github/followers/Deshadeeth-Thisarana.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Deshadeeth-Thisarana?tab=followers)
+- [![GitHub Followers](https://img.shields.io/github/followers/Deshadeeth-Thisarana.svg?style=social&label=Followers&maxAge=2592000)](https://github.com/Deshadeeth-Thisarana?tab=followers)
 
 
 <h2>GitHub Stats 📊</h2>
 
-<a href="https://github.com/Deshadeeth-Thisarana"><img src="https://v0-github-profile-stats.vercel.app/api/stats?username=Deshadeeth-Thisarana&theme=ocean_dark&show_icons=true" alt="GitHub Stats" />
+<a href="https://github.com/Deshadeeth-Thisarana"><img src="https://v0-github-profile-stats.vercel.app/api/stats?username=Deshadeeth-Thisarana&theme=ocean_dark&show_icons=true" alt="GitHub Stats"> </a>
 
 
 <h2>Most used Languages 🔠</h2>
 
-<a href="https://github.com/Deshadeeth-Thisarana"><img align="center" src="https://v0-github-profile-stats.vercel.app/api/top-langs?username=Deshadeeth-Thisarana&theme=tokyonight"></a>
+<a href="https://github.com/Deshadeeth-Thisarana"><img align="center" src="https://v0-github-profile-stats.vercel.app/api/top-langs?username=Deshadeeth-Thisarana&theme=tokyonight"> </a>
 
 
 <h2>GitHub Tropies 🏆</h2>
 
-<a href="https://github.com/Deshadeeth-Thisarana"><img src="https://v0-github-profile-trophy.vercel.app/api?user=Deshadeeth-Thisarana" alt="GitHub Profile Trophy"/> </a>
+<a href="https://github.com/Deshadeeth-Thisarana"><img src="https://v0-github-profile-trophy.vercel.app/api?user=Deshadeeth-Thisarana" alt="GitHub Trophies"/> </a>
 
 
 <h2>Contributions & Streak 🔥</h2>
 
-<a href="https://github.com/Deshadeeth-Thisarana"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Deshadeeth-Thisarana" alt="Contributions"></a>
+<a href="https://github.com/Deshadeeth-Thisarana"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Deshadeeth-Thisarana" alt="Contributions"> </a>
 
 
 <h2>Activity Graph 📈</h2>
 
-<a href="https://github.com/Deshadeeth-Thisarana"><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Deshadeeth-Thisarana&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Deshadeeth-Thisarana"><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Deshadeeth-Thisarana&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /> </a>
 
 
 <h2>Tools 🛠</h2> 
