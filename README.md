@@ -1,5 +1,3 @@
-<img src="https://v0-github-profile-trophy.vercel.app/api?user=Deshadeeth-Thisarana" alt="GitHub Profile Trophy" />
-
 <h1>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 | <a href="https://t.me/DeshadeethThisarana"><img src="https://telegra.ph/file/3b0ae71398ed84b07e9a9.jpg" width="350px" height="350px" /></a> |
@@ -28,19 +26,17 @@
 <a href="https://github.com/Deshadeeth-Thisarana"><img width="100%" align="center" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /></a>
 
 
-<h2>Stats 📊</h2>
+<h2>GitHub Stats 📊</h2>
 
-<div align="left"><img src="https://github-profile-trophy.vercel.app/?username=deshadeeth-thisarana&theme=dracula&count_private=true"></div>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=deshadeeth-thisarana&show_icons=true&hide_border=true&theme=tokyonight">
+<a href="https://github.com/Deshadeeth-Thisarana"><img src="https://v0-github-profile-trophy.vercel.app/api?user=Deshadeeth-Thisarana&type=stats" alt="GitHub Stats" />
 
-<h2>GitHub Status <img 
-src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" width="50px">
+<h2>GitHub Tropies
+  <img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" width="50px">
 </h2>
 
-- [![Profile views](https://gpvc.arturio.dev/deshadeeth-thisarana)](https://github.com/deshadeeth-thisarana)
-- [![GitHub followers](https://img.shields.io/github/followers/deshadeeth-thisarana.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/deshadeeth-thisarana?tab=followers)
-- [![visitors](https://visitor-badge.glitch.me/badge?page_id=deshadeeth-thisarana)](https://github.com/deshadeeth-thisarana)
+<a href="https://github.com/Deshadeeth-Thisarana"><img src="https://v0-github-profile-trophy.vercel.app/api?user=Deshadeeth-Thisarana" alt="GitHub Profile Trophy"/> </a>
 
+- [![GitHub followers](https://img.shields.io/github/followers/deshadeeth-thisarana.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Deshadeeth-Thisarana?tab=followers)
 
 <h2>Tools 🛠</h2> 
 <p align ="left">
