@@ -14,7 +14,7 @@
 </h2>
 
 <!-- Social icons table -->
-| Telegram | GitHub | Instagram | X | Facebook | LinkedIn |
+|  |  |  |  |  |  |
 |:--------:|:------:|:---------:|:--:|:--------:|:--------:|
 | <a href="https://t.me/DeshadeethThisarana"><img src="https://i.postimg.cc/7hczhmcf/Telegram.png" width="40" height="40"></a> | <a href="https://github.com/Deshadeeth-Thisarana"><img src="https://i.postimg.cc/P5sfT7X4/GitHub.png" width="40" height="40"></a> | <a href="https://instagram.com/DeshadeethThisarana"><img src="https://i.postimg.cc/MT3M39Wk/Instagram.png" width="40" height="40"></a> | <a href="https://x.com/Deshadeeth"><img src="https://i.postimg.cc/tCrfSpjq/X.png" width="40" height="40"></a> | <a href="https://facebook.com/DeshadeethThisarana"><img src="https://i.postimg.cc/hvpB1Ygy/Facebook.png" width="40" height="40"></a> | <a href="https://linkedin.com/in/DeshadeethThisarana"><img src="https://i.postimg.cc/Fz0rLbGH/LinkedIn.png" width="40" height="40"></a> |
 
