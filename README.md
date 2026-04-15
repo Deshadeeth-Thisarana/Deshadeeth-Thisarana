@@ -1,7 +1,7 @@
 <h1>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 
-| <a href="https://github.com/Deshadeeth-Thisarana"><img src="https://telegra.ph/file/3b0ae71398ed84b07e9a9.jpg" width="350" height="350" /></a> |
+| <a href="https://github.com/Deshadeeth-Thisarana"><img src="https://telegra.ph/file/3b0ae71398ed84b07e9a9.jpg" width="400" height="400" /></a> |
 |:---------------------------------------------------------------------------------------------------------:|
 | <h2><a href="https://github.com/Deshadeeth-Thisarana">Đ€Ş卄ΔĐ€€Ť卄 Ť卄ĪŞΔŘคŇΔ</a></h2> |
 
