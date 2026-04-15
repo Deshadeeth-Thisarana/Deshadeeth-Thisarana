@@ -1,7 +1,7 @@
 <h1>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 
-| <a href="https://github.com/Deshadeeth-Thisarana"><img src="https://telegra.ph/file/3b0ae71398ed84b07e9a9.jpg" width="350px" height="350px" /></a> |
+| <a href="https://github.com/Deshadeeth-Thisarana"><img src="https://telegra.ph/file/3b0ae71398ed84b07e9a9.jpg" width="400px" height="400px" /></a> |
 |:-----------------------------------------------------------------------------------------------------------------------------------:|
 | <h2 align="center"> [Đ€Ş卄ΔĐ€€Ť卄 Ť卄ĪŞΔŘคŇΔ](https://github.com/Deshadeeth-Thisarana) </h2> |
 |<a href="https://t.me/DeshadeethThisarana"><img align="center" src="https://i.postimg.cc/7hczhmcf/Telegram.png" width="40" height="40"></a><a href="https://github.com/Deshadeeth-Thisarana"><img align="center" src="https://i.postimg.cc/P5sfT7X4/GitHub.png" width="40" height="40"></a><a href="https://instagram.com/DeshadeethThisarana"><img align="center" src="https://i.postimg.cc/MT3M39Wk/Instagram.png"  height="40" width="40"></a><a href="https://x.com/Deshadeeth"><img align="center" src="https://i.postimg.cc/tCrfSpjq/X.png" height="40" width="40" /></a><a href="https://facebook.com/DeshadeethThisarana"><img align="center" src="https://i.postimg.cc/hvpB1Ygy/Facebook.png" height="40" width="40"></a><a href="https://linkedin.com/in/DeshadeethThisarana"><img align="center" src="https://i.postimg.cc/Fz0rLbGH/LinkedIn.png" width="40" height="40"></a>|
