@@ -1,13 +1,59 @@
 <h1>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 
-| <a href="https://github.com/Deshadeeth-Thisarana"><img src="https://telegra.ph/file/3b0ae71398ed84b07e9a9.jpg" width="400" height="400" /></a> |
-|:---------------------------------------------------------------------------------------------------------:|
-| <h2><a href="https://github.com/Deshadeeth-Thisarana">Đ€Ş卄ΔĐ€€Ť卄 Ť卄ĪŞΔŘคŇΔ</a></h2> |
+<table>
+  <!-- Profile picture row -->
+  <tr>
+    <td colspan="6" align="center">
+      <a href="https://github.com/Deshadeeth-Thisarana">
+        <img src="https://telegra.ph/file/3b0ae71398ed84b07e9a9.jpg" width="350" height="350" />
+      </a>
+    </td>
+  </tr>
 
-|  |  |  |  |  |  |
-|:--------:|:------:|:---------:|:--:|:--------:|:--------:|
-| <a href="https://t.me/DeshadeethThisarana"><img src="https://i.postimg.cc/7hczhmcf/Telegram.png" width="40" height="40"></a> | <a href="https://github.com/Deshadeeth-Thisarana"><img src="https://i.postimg.cc/P5sfT7X4/GitHub.png" width="40" height="40"></a> | <a href="https://instagram.com/DeshadeethThisarana"><img src="https://i.postimg.cc/MT3M39Wk/Instagram.png" width="40" height="40"></a> | <a href="https://x.com/Deshadeeth"><img src="https://i.postimg.cc/tCrfSpjq/X.png" width="40" height="40"></a> | <a href="https://facebook.com/DeshadeethThisarana"><img src="https://i.postimg.cc/hvpB1Ygy/Facebook.png" width="40" height="40"></a> | <a href="https://linkedin.com/in/DeshadeethThisarana"><img src="https://i.postimg.cc/Fz0rLbGH/LinkedIn.png" width="40" height="40"></a> |
+  <!-- Name row -->
+  <tr>
+    <td colspan="6" align="center">
+      <h2>
+        <a href="https://github.com/Deshadeeth-Thisarana">Đ€Ş卄ΔĐ€€Ť卄 Ť卄ĪŞΔŘคŇΔ</a>
+      </h2>
+    </td>
+  </tr>
+
+  <!-- Social icons row -->
+  <tr>
+    <td align="center">
+      <a href="https://t.me/DeshadeethThisarana">
+        <img src="https://i.postimg.cc/7hczhmcf/Telegram.png" width="40" height="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Deshadeeth-Thisarana">
+        <img src="https://i.postimg.cc/P5sfT7X4/GitHub.png" width="40" height="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://instagram.com/DeshadeethThisarana">
+        <img src="https://i.postimg.cc/MT3M39Wk/Instagram.png" width="40" height="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://x.com/Deshadeeth">
+        <img src="https://i.postimg.cc/tCrfSpjq/X.png" width="40" height="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://facebook.com/DeshadeethThisarana">
+        <img src="https://i.postimg.cc/hvpB1Ygy/Facebook.png" width="40" height="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://linkedin.com/in/DeshadeethThisarana">
+        <img src="https://i.postimg.cc/Fz0rLbGH/LinkedIn.png" width="40" height="40" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 <h2>I'm 𝘿𝙚𝙨𝙝𝙖𝙙𝙚𝙚𝙩𝙝 𝙏𝙝𝙞𝙨𝙖𝙧𝙖𝙣𝙖, a student from Sri Lanka <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width=70px></h2> 
