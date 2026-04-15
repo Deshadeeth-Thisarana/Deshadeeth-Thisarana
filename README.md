@@ -155,9 +155,9 @@
     <td align="center" style="border:none;"><a href="https://www.java.com"><img src="https://i.postimg.cc/DzzZmYDz/Java.png" alt="Java" width="40" height="40"/></a></td>
     <td align="center" style="border:none;"><a href="https://www.python.org"><img src="https://i.postimg.cc/9Qk3t80V/Python.png" alt="Python" width="40" height="40"/></a></td>
     <td align="center" style="border:none;"><a href="https://www.php.net"><img src="https://i.postimg.cc/j23v01GZ/PHP.png" alt="PHP" width="40" height="20"/></a></td>
-    <td align="center" style="border:none;"><a href="https://go.dev/"><img src="https://i.postimg.cc/kXDthGwg/Go.png" alt="Go" width="40" height="10"/></a></td>
+    <td align="center" style="border:none;"><a href="https://go.dev/"><img src="https://i.postimg.cc/kXDthGwg/Go.png" alt="Go" width="40" height="40"/></a></td>
     <td align="center" style="border:none;"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://i.postimg.cc/P5Yb2NrS/Java-Script.png" alt="JavaScript" width="40" height="40"/></a></td>
-    <td align="center" style="border:none;"><a href="https://www.oracle.com/"><img src="https://i.postimg.cc/2ynvTKCZ/Oracle.png" alt="Oracle" width="40" height="40"/></a></td>
+    <td align="center" style="border:none;"><a href="https://www.oracle.com/"><img src="https://i.postimg.cc/2ynvTKCZ/Oracle.png" alt="Oracle" width="40" height="10"/></a></td>
   </tr>  
   <tr>
     <td align="center" style="border:none;"><a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a></td>
