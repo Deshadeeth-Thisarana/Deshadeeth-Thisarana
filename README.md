@@ -4,26 +4,8 @@
 | <a href="https://github.com/Deshadeeth-Thisarana"><img src="https://telegra.ph/file/3b0ae71398ed84b07e9a9.jpg" width="400px" height="400px" /></a> |
 |:-----------------------------------------------------------------------------------------------------------------------------------:|
 | <h2 align="center"> [Đ€Ş卄ΔĐ€€Ť卄 Ť卄ĪŞΔŘคŇΔ](https://github.com/Deshadeeth-Thisarana) </h2> |
-|<p align="center">
-  <a href="https://t.me/DeshadeethThisarana">
-    <img align="center" src="https://i.postimg.cc/7hczhmcf/Telegram.png" width="40" height="40">
-  </a>
-  <a href="https://github.com/Deshadeeth-Thisarana">
-    <img align="center" src="https://i.postimg.cc/P5sfT7X4/GitHub.png" width="40" height="40">
-  </a>
-  <a href="https://instagram.com/DeshadeethThisarana">
-    <img align="center" src="https://i.postimg.cc/MT3M39Wk/Instagram.png"  height="40" width="40">
-  </a>
-  <a href="https://x.com/Deshadeeth">
-    <img align="center" src="https://i.postimg.cc/tCrfSpjq/X.png" height="40" width="40" />
-  </a>
-  <a href="https://facebook.com/DeshadeethThisarana">
-    <img align="center" src="https://i.postimg.cc/hvpB1Ygy/Facebook.png" height="40" width="40">
-  </a>
-  <a href="https://linkedin.com/in/DeshadeethThisarana">
-    <img align="center" src="https://i.postimg.cc/Fz0rLbGH/LinkedIn.png" width="40" height="40">
-  </a>
-</p>|
+|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
+|<a href="https://t.me/DeshadeethThisarana"><img align="center" src="https://i.postimg.cc/7hczhmcf/Telegram.png" width="40" height="40"></a>|<a href="https://github.com/Deshadeeth-Thisarana"><img align="center" src="https://i.postimg.cc/P5sfT7X4/GitHub.png" width="40" height="40"></a>|<a href="https://instagram.com/DeshadeethThisarana"><img align="center" src="https://i.postimg.cc/MT3M39Wk/Instagram.png"  height="40" width="40"></a>|<a href="https://x.com/Deshadeeth"><img align="center" src="https://i.postimg.cc/tCrfSpjq/X.png" height="40" width="40" /></a>|<a href="https://facebook.com/DeshadeethThisarana"><img align="center" src="https://i.postimg.cc/hvpB1Ygy/Facebook.png" height="40" width="40"></a>|<a href="https://linkedin.com/in/DeshadeethThisarana"><img align="center" src="https://i.postimg.cc/Fz0rLbGH/LinkedIn.png" width="40" height="40"></a>|
 
 
 <h2>I'm 𝘿𝙚𝙨𝙝𝙖𝙙𝙚𝙚𝙩𝙝 𝙏𝙝𝙞𝙨𝙖𝙧𝙖𝙣𝙖, a student from Sri Lanka <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width=70px></h2> 
