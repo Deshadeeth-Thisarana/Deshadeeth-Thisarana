@@ -95,10 +95,10 @@
 <a href="https://github.com/Deshadeeth-Thisarana"><img align="center" src="https://v0-github-profile-stats.vercel.app/api/top-langs?username=Deshadeeth-Thisarana&theme=tokyonight"> </a>
 
 
-<h2>GitHub Tropies 🏆</h2>
+<!-- <h2>GitHub Tropies 🏆</h2>
 
 <a href="https://github.com/Deshadeeth-Thisarana"><img src="https://v0-github-profile-trophy.vercel.app/api?user=Deshadeeth-Thisarana" alt="GitHub Trophies"/> </a>
-
+-->
 
 <h2>Contributions & Streak 🔥</h2>
 
@@ -111,23 +111,53 @@
 
 
 <h2>Tools 🛠</h2> 
-<p align ="left">
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-</p>
+<table>
+  <tr>
+    <td align="center" style="border:none;">
+      <img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
+    </td>
+    <td align="center" style="border:none;">
+      <img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
+    </td>
+    <td align="center" style="border:none;">
+      <img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border:none;">
+      <img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+    </td>
+    <td align="center" style="border:none;">
+      <img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg">
+    </td>
+    <td align="center" style="border:none;">
+      <img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
+    </td>
+  </tr>
+  <tr>
+  <tr>
+    <td align="center" style="border:none;">
+      <img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg">
+    </td>
+    <td align="center" style="border:none;">
+      <img width="10%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg">
+    </td>
+    <td align="center" style="border:none;">
+      <img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg">
+    </td>
+  </tr>
+    <td align="center" style="border:none;">
+      <img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg">
+    </td>
+    <td align="center" style="border:none;">
+      <img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg">
+    </td>
+    <td align="center" style="border:none;">
+      <img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg">
+    </td>
+  </tr>
+</table>
+
 
 
 <h2>Currently learning 💻</h2>
