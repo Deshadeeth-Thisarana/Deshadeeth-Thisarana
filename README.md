@@ -1,10 +1,8 @@
 <h1>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-|  |
-|:-------------------------:|
 <!-- Big profile image -->
 | <a href="https://github.com/Deshadeeth-Thisarana"><img src="https://telegra.ph/file/3b0ae71398ed84b07e9a9.jpg" width="400" height="400" /></a> |
-
+|:-------------------------:|
 <!-- Centered heading -->
 | <a href="https://github.com/Deshadeeth-Thisarana">Đ€Ş卄ΔĐ€€Ť卄 Ť卄ĪŞΔŘคŇΔ</a> |
 
