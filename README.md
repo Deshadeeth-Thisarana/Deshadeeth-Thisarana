@@ -111,7 +111,7 @@
 
 
 <h2>Tools 🛠</h2> 
-<table style="border-collapse: collapse; border: none">
+<table style="border-collapse: collapse; border: none;">
   <tr>
     <td align="center" style="border:none;">
       <code><a href="https://www.java.com"><img width="100%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
