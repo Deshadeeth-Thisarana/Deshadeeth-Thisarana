@@ -114,35 +114,35 @@
 <table style="border-collapse: collapse; border: none;">
   <tr>
     <td align="center" style="border:none;">
-      <code><a href="https://www.java.com"><img width="100%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
+      <code><a href="https://java.com/"><img width="100%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
     </td>
     <td align="center" style="border:none;">
-      <img width="100%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg">
+      <code><a href="https://kotlinlang.org/"><img width="100%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></a></code>
     </td>
     <td align="center" style="border:none;">
-      <img width="100%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg">
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="border:none;">
-      <img width="100%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
-    </td>
-    <td align="center" style="border:none;">
-      <img width="100%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg">
-    </td>
-    <td align="center" style="border:none;">
-      <img width="100%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg">
+      <code><a href="https://circleci.com/"><img width="100%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></a></code>
     </td>
   </tr>
   <tr>
     <td align="center" style="border:none;">
-      <img width="100%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
+      <code><a href="https://mysql.com/"><img width="100%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
     </td>
     <td align="center" style="border:none;">
-      <img width="100%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg">
+      <code><a href="https://sqlite.org/"><img width="100%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></a></code>
     </td>
     <td align="center" style="border:none;">
-      <img width="100%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg">
+      <code><a href="https://json.org/"><img width="100%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></a></code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border:none;">
+      <code><a href="https://git-scm.com/"><img width="100%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
+    </td>
+    <td align="center" style="border:none;">
+      <code><a href="https://gnu.org/software/bash/"><img width="100%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></a></code>
+    </td>
+    <td align="center" style="border:none;">
+      <code><a href="https://yaml.org/"><img width="100%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></a></code>
     </td>
   </tr>
 </table>
