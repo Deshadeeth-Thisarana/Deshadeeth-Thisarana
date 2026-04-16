@@ -111,38 +111,38 @@
 
 
 <h2>Tools 🛠</h2> 
-<table style="border-collapse: collapse; border: none;">
+<table style="background-color: #999999; border:none;">
   <tr>
-    <td align="center" style="border:none;">
+    <td>
       <code><a href="https://java.com/"><img width="100%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
     </td>
-    <td align="center" style="border:none;">
+    <td>
+      <code><a href="https://git-scm.com/"><img width="100%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
+    </td>
+    <td>
       <code><a href="https://code.visualstudio.com/"><img width="100%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
     </td>
-    <td align="center" style="border:none;">
+  </tr>
+  <tr>
+    <td>
+      <code><a href="https://json.org/"><img width="100%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></a></code>
+    </td>
+    <td>
+      <code><a href="https://gnu.org/software/bash/"><img width="100%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></a></code>
+    </td>
+    <td>
       <code><a href="https://circleci.com/"><img width="100%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></a></code>
     </td>
   </tr>
   <tr>
-    <td align="center" style="border:none;">
-      <code><a href="https://docker.com/"><img width="100%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
+    <td>
+      <code><a href="https://yaml.org/"><img width="100%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></a></code>
     </td>
-    <td align="center" style="border:none;">
+    <td>
       <code><a href="https://linux.org/"><img width="100%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
     </td>
-    <td align="center" style="border:none;">
-      <code><a href="https://json.org/"><img width="100%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></a></code>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="border:none;">
-      <code><a href="https://git-scm.com/"><img width="100%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
-    </td>
-    <td align="center" style="border:none;">
-      <code><a href="https://gnu.org/software/bash/"><img width="100%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></a></code>
-    </td>
-    <td align="center" style="border:none;">
-      <code><a href="https://yaml.org/"><img width="100%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></a></code>
+    <td>
+      <code><a href="https://docker.com/"><img width="100%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
     </td>
   </tr>
 </table>
@@ -162,21 +162,21 @@
   </tr>  
   <tr>
     <td align="center" style="border:none;"><a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a></td>
-    <td align="center" style="border:none;"><a href="https://gnu.org/software/bash/"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a></td>
+    <td align="center" style="border:none;"><a href="https://gnu.org/software/bash/"><img src="https://i.postimg.cc/kGWRtXQK/Bash.png" alt="bash" width="40" height="40"/></a></td>
     <td align="center" style="border:none;"><a href="https://docker.com/"><img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="Docker" width="40" height="40"/></a></td>
     <td align="center" style="border:none;"><a href="https://linux.org/"><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="40" height="40"/></a></td>
-    <td align="center" style="border:none;"><a href="https://unity.com/"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/></a></td>
-    <td align="center" style="border:none;"><a href="https://circleci.com/"><img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/></a></td>
+    <td align="center" style="border:none;"><a href="https://unity.com/"><img src="https://i.postimg.cc/nrV55M30/Unity.png" alt="Unity" width="40" height="40"/></a></td>
+    <td align="center" style="border:none;"><a href="https://circleci.com/"><img src="https://i.postimg.cc/gj9FTGCz/Circleci.jpg" alt="circleci" width="40" height="40"/></a></td>
     <td align="center" style="border:none;"><a href="https://jetbrains.com/idea/"><img src="https://i.postimg.cc/HkZVX3zf/Intelli-JIDEA.png" alt="IntelliJ" width="40" height="40"/></a></td>
   </tr>
   <tr>
     <td align="center" style="border:none;"><a href="https://mongodb.com/"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/></a></td>
-    <td align="center" style="border:none;"><a href="https://mysql.com/"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="40" height="40"/></a></td>
+    <td align="center" style="border:none;"><a href="https://mysql.com/"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/></a></td>
     <td align="center" style="border:none;"><a href="https://postgresql.org/"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" alt="postgresql" width="40" height="40"/></a>
     <td align="center" style="border:none;"><a href="https://redis.io/"><img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40"/></a></td>
     <td align="center" style="border:none;"><a href="https://cloud.google.com/"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GoogleCloud" width="40" height="40"/></a></td>
     <td align="center" style="border:none;"><a href="https://oracle.com/"><img src="https://i.postimg.cc/2ynvTKCZ/Oracle.png" alt="Oracle" width="40" height="10"/></a></td>
-    <td align="center" style="border:node;"><a href="https://sqlite.org/"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="sqlite" width="40" height="40"/></a></td>
+    <td align="center" style="border:node;"><a href="https://sqlite.org/"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a></td>
   </tr>
   <tr>
     <td align="center" style="border:none;"><a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a></td>
