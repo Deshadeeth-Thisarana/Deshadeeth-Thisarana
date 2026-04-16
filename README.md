@@ -117,7 +117,7 @@
       <code><a href="https://java.com/"><img width="100%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
     </td>
     <td align="center" style="border:none;">
-      <code><a href="https://kotlinlang.org/"><img width="100%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></a></code>
+      <code><a href="https://code.visualstudio.com/"><img width="100%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
     </td>
     <td align="center" style="border:none;">
       <code><a href="https://circleci.com/"><img width="100%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></a></code>
