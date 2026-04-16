@@ -59,7 +59,7 @@
 <h2>I'm 𝘿𝙚𝙨𝙝𝙖𝙙𝙚𝙚𝙩𝙝 𝙏𝙝𝙞𝙨𝙖𝙧𝙖𝙣𝙖, a student from Sri Lanka <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width=70px></h2> 
 
 
-<p align="center"><a href="https://github.com/Deshadeeth-Thisarana"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt" /></a></p>
+<p align="left"><a href="https://github.com/Deshadeeth-Thisarana"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt" /></a></p>
 
 
 <h2>Talking about Personal Stuffs 👦</h2>
@@ -114,7 +114,7 @@
 <table style="border-collapse: collapse; border: none;">
   <tr>
     <td align="center" style="border:none;">
-      <img width="100%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
+      <code><a href="https://www.java.com"><img width="100%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
     </td>
     <td align="center" style="border:none;">
       <img width="100%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg">
