@@ -48,7 +48,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://linkedin.com/in/DeshadeethThisarana">
+      <a href="https://linkedin.com/in/Deshadeeth-Thisarana">
         <img src="https://i.postimg.cc/Fz0rLbGH/LinkedIn.png" width="40" height="40" />
       </a>
     </td>
